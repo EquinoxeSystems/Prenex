@@ -978,9 +978,7 @@ void portada(void)
     marco(14,6,66,15,WHITE,LIGHTCYAN,DOBLE); window(15,7,65,14); clrscr(); window(1,1,80,25);
     gotoxy(15, 7); cprintf(" Programa para convertir una F.B.F. del c lculo de ");
     gotoxy(15, 8); cprintf("predicados de primer orden a la Forma Normal PRENEX");
-    gotoxy(15,10); cprintf("  B.U.A.P., F.C.C., L¢gica Matem tica, Grupo: 8-1  ");
     gotoxy(15,12); cprintf("     Realizado por:  Rodolfo Gonz lez Gonz lez     ");
-    gotoxy(15,14); cprintf("  Matr¡cula: 920007382.            Abril 30, 1996  ");
     pausa("Presione cualquier tecla para continuar...");
 }
 
