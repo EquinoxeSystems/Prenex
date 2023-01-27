@@ -2,7 +2,7 @@
 
 This is a program I wrote in 1996 for a course of Mathematical Logic.
 
-The program converts a [Well Formed Formula](https://en.wikipedia.org/wiki/Well-formed_formula) into [Prenex normal form](https://en.wikipedia.org/wiki/Prenex_normal_form). And it is also a good exercise on using pointers in C++. It compiled in Turbo C++.
+The program converts a [Well Formed Formula](https://en.wikipedia.org/wiki/Well-formed_formula) into [Prenex normal form](https://en.wikipedia.org/wiki/Prenex_normal_form). And it is also a good exercise on using pointers in C++. It compiled with Turbo C++.
 
 ## License
 
