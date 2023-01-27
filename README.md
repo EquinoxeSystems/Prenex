@@ -6,7 +6,7 @@ The program converts a [Well Formed Formula](https://en.wikipedia.org/wiki/Well-
 
 ## License
 
-Copyright 1995 Rodolfo González González.
+Copyright 1996 Rodolfo González González.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
