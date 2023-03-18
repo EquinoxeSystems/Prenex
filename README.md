@@ -1,5 +1,10 @@
 # Well formed formula to Prenex normal form converter
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+![GitHub all releases](https://img.shields.io/github/downloads/rgglez/prenex/total) 
+![GitHub issues](https://img.shields.io/github/issues/rgglez/prenex) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/prenex)
+
 This is a program I wrote in 1996 for a course of Mathematical Logic.
 
 The program converts a [Well Formed Formula](https://en.wikipedia.org/wiki/Well-formed_formula) into [Prenex normal form](https://en.wikipedia.org/wiki/Prenex_normal_form). And it is also a good exercise on using pointers in C++. It compiled with Turbo C++.
@@ -18,3 +23,5 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+See the LICENSE file.
